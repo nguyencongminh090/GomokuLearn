@@ -1,0 +1,8 @@
+{
+  "Ex": ["Exercise 1: Solve Opening"],
+  "Exercise 1: Solve Opening": {
+    "image": "Image\\h3e8m5.jpg",
+    "problem": "Type the moves white have to play",
+    "solution": ["f8", "g8"]
+  }
+}
